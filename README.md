@@ -30,6 +30,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/W7EVEN/W7EVEN/blob/output/snake.svg" alt="Snake animation" />
-
-###
